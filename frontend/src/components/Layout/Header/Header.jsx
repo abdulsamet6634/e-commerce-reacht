@@ -1,4 +1,4 @@
-import "./Header.css"
+import "./Header.css";
 const Header = () => {
   return (
     <header>
@@ -173,12 +173,6 @@ const Header = () => {
                     <a href="blog.html" className="menu-link">
                       {" "}
                       Blog{" "}
-                    </a>
-                  </li>
-                  <li className="menu-list-item">
-                    <a href="contact.html" className="menu-link">
-                      {" "}
-                      Contact{" "}
                     </a>
                   </li>
                   <li className="menu-list-item">
