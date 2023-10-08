@@ -181,6 +181,12 @@ const Header = () => {
                       Contact{" "}
                     </a>
                   </li>
+                  <li className="menu-list-item">
+                    <a href="contact.html" className="menu-link">
+                      {" "}
+                      Contact{" "}
+                    </a>
+                  </li>
                 </ul>
               </nav>
               <i className="bi-x-circle" id="close-sidebar"></i>
